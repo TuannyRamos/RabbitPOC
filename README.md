@@ -1,3 +1,3 @@
 # RabbitPOC
 
-![image](https://user-images.githubusercontent.com/10133244/176919242-9bf05e13-53b5-4d44-ab05-629a01bdd946.png)
+![Untitled - RabbitMQ POC](https://user-images.githubusercontent.com/10133244/176919386-cb4ac4c1-e48b-4549-a1f3-d4cf0802a2f6.jpg)
